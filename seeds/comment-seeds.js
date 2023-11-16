@@ -1,4 +1,5 @@
-const { Comment } = require('/Users/jasminflores/bootcamp/HW/14techblog/models');
+const { Comment } = require('../models');
+  
 
 const commentData = [
     {
