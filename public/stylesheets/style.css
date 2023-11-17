@@ -6,7 +6,7 @@ body,
 html {
     height: 100%;
     padding: 0;
-    margin: 20;
+    margin: 10;
     font-family: sans-serif;
     color: #333;
 }
@@ -38,8 +38,8 @@ button:hover {
 }
 
 .border {
-    border: #2e833f solid 10px;
-    margin: 5px;
+    border: #2e833f solid 5px;
+    margin: 10px;
     padding: 2px;
     box-shadow: 5px 5px 5px;
 }
@@ -97,7 +97,8 @@ header {
 }
 
 header h1 {
-    font-size: 1em;
+    font-size: 5em;
+    text-shadow: 3px 3px 3px;
 }
 
 main {
@@ -107,7 +108,7 @@ main {
 
 .btn-no-style {
     background: none;
-    border: none;
+    border: none ;
     padding: 0;
     cursor: pointer;
     text-decoration: none;
@@ -147,14 +148,6 @@ main {
     margin: -1.5% 0 2% 0;
 }
 
-.upvote-btn {
-    background-color: #197d0f;
-    transition: background-color .1s;
-}
-
-.upvote-btn:hover {
-    background-color: #1f9c13;
-}
 
 
 
