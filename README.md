@@ -16,3 +16,4 @@ simply look up the deployed website and youll have access to multiple tech posts
 ![signup](/images/signsup.png)
 ![login](/images/logins.png)
 ![results](/images/blog.png)
+![create blog](/images/create.png)
