@@ -6,7 +6,7 @@ body,
 html {
     height: 100%;
     padding: 0;
-    margin: 0;
+    margin: 20;
     font-family: sans-serif;
     color: #333;
 }
@@ -38,9 +38,10 @@ button:hover {
 }
 
 .border {
-    border: #2e833f solid 1px;
+    border: #2e833f solid 10px;
     margin: 5px;
     padding: 2px;
+    box-shadow: 5px 5px 5px;
 }
 
 .background {
