@@ -13,6 +13,6 @@ simply look up the deployed website and youll have access to multiple tech posts
 
 ## Visuals
 
-![signup](/images/signup.png)
-![login](/images/login.png)
-![results](/images/results.png)
+![signup](/images/signsup.png)
+![login](/images/logins.png)
+![results](/images/blog.png)
