@@ -1,1 +1,1 @@
-web : node server.js
+web : bundle exec node server.js
